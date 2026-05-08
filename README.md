@@ -1,6 +1,6 @@
 # Hi, I'm Prithwiraj Chatterjee 👋
 
-**MS GRA @ University of Texas at Arlington · Graduating Dec 2026**
+**GRA @ University of Texas at Arlington · Graduating Dec 2026**
 
 I build end-to-end ML systems from on-device computer vision and genomic classifiers to time-series forecasting pipelines. I like problems where the model architecture has to be *justified*, not just chosen by convention.
 
