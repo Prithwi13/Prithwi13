@@ -66,7 +66,6 @@ A bio-analytics pipeline that infers room-level human presence from **temperatur
 |---|---|---|
 | [NBA](https://github.com/Prithwi13/NBA) | NBA player/team analytics and performance modeling | Python, Jupyter |
 | [SIGNAL](https://github.com/Prithwi13/SIGNAL) | Signal processing and visualization | JS |
-| [Memora](https://github.com/Prithwi13/Memora) 
 
 ---
 
