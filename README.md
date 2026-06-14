@@ -4,7 +4,7 @@
 
 I build end-to-end ML systems from on-device computer vision and genomic classifiers to time-series forecasting pipelines. I like problems where the model architecture has to be *justified*, not just chosen by convention.
 
-Currently working on Quantum Vision models and leborot.
+Currently working on Quantum Vision models and HF leRobot.
 
 ---
 
